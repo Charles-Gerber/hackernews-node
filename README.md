@@ -2,7 +2,7 @@
 
 Tuto GraphQL, available here https://www.howtographql.com/graphql-js/
 
-step of this branch : https://www.howtographql.com/graphql-js/3-a-simple-mutation/
+step of this branch : https://www.howtographql.com/graphql-js/4-adding-a-database/
 
 How to Run:
 node src/index.js
